@@ -17,3 +17,8 @@ Sonuç olarak, eğitilen model belirli bir sınıflandırma probleminde yüksek 
 - Pandas
 - NumPy
 - Matplotlib
+
+# Kaggle Notebook
+Projenin tam uygulama süreci için Kaggle'daki notebook'uma göz atabilirsiniz:
+
+https://www.kaggle.com/code/mehmetfatihtosun/fish-ds
